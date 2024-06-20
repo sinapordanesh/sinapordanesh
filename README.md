@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🎓 Software Engineering Graduate
-🌱 Current Focus: Machine Learning and Data Science
-🔭 Research Interests: Large Language Models (LLMs)
-🤔 Open to Collaboration: Excited to work on ML and LLM projects, with a particular focus on Natural Language Processing (NLP) and Deep Learning
-⚡ Passionate About: Research & Development (R&D) and pushing the boundaries of technology
+🎓 Software Engineering Graduate<br>
+🌱 Current Focus: Machine Learning and Data Science<br>
+🔭 Research Interests: Large Language Models (LLMs)<br>
+🤔 Open to Collaboration: Excited to work on ML and LLM projects, with a particular focus on Natural Language Processing (NLP) and Deep Learning<br>
+⚡ Passionate About: Research & Development (R&D) and pushing the boundaries of technology<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sina4437) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/samanpordanesh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@sina_pordanesh) 
