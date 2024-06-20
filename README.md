@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Software engineering degree<br>Working on Machine Learning and Data Science<br>Research on Large Language Models<br>Interested in collaboration on any ML or LLM projects. More specifically, Natural Language Processing and Deep Learning<br>Keen on R&D and working at the edge of these technologies
+🎓 Software Engineering Graduate
+🌱 Current Focus: Machine Learning and Data Science
+🔭 Research Interests: Large Language Models (LLMs)
+🤔 Open to Collaboration: Excited to work on ML and LLM projects, with a particular focus on Natural Language Processing (NLP) and Deep Learning
+⚡ Passionate About: Research & Development (R&D) and pushing the boundaries of technology
 
 
 ## 🌐 Socials:
