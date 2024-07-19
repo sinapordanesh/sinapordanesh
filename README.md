@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hey there, I'm [Sina!](https://samanpordanesh.com/) <img alt="GIF" src="https://raw.githubusercontent.com/Brillianttyagi/Brillianttyagi/master/hand.gif" width=35 />
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sina4437) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/samanpordanesh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@sina_pordanesh) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sina4437) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samanpordanesh/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@sina_pordanesh) 
 [![Portfolio](https://img.shields.io/badge/portfolio-Online-green)](https://samanpordanesh.com/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?logo=adobe)](https://docs.google.com/viewerng/viewer?url=https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/bb6c4ba1-4ccb-4f32-b444-a7e440215e26/Saman_Pordanesh.pdf)
 
