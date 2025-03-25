@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 🔭 Research Interests: Computational Physics, Deep Learning Algorithm Optimization<br>
 🤔 Open to Collaboration: Excited to work on new scientific machine learning approaches such as Physics Informed Neural Network, Neural Operators, Graph Neural Networks, and much more.<br>
 ⚡ Passionate About: Research & Development (R&D) and pushing the boundaries of technology<br>
-![](https://github-readme-stats.vercel.app/api?username=sinapordanesh&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
