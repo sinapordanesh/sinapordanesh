@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 [![Portfolio](https://img.shields.io/badge/portfolio-Online-green)](https://samanpordanesh.com/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?logo=adobe)](https://docs.google.com/viewerng/viewer?url=https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/bb6c4ba1-4ccb-4f32-b444-a7e440215e26/Saman_Pordanesh.pdf)
 
-🎓 Software Engineering Graduate<br>
-🌱 Current Focus: Machine Learning and Data Science<br>
-🔭 Research Interests: Large Language Models (LLMs)<br>
-🤔 Open to Collaboration: Excited to work on ML and LLM projects, with a particular focus on Natural Language Processing (NLP) and Deep Learning<br>
+🎓 Research Assistant<br>
+🌱 Current Focus: Scientific Machine Learning<br>
+🔭 Research Interests: Computational Physics, Deep Learning Algorithm Optimization<br>
+🤔 Open to Collaboration: Excited to work on new scientific machine learning approaches such as Physics Informed Neural Network, Neural Operators, Graph Neural Networks, and much more.<br>
 ⚡ Passionate About: Research & Development (R&D) and pushing the boundaries of technology<br>
 ![](https://github-readme-stats.vercel.app/api?username=sinapordanesh&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
